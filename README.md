@@ -1,5 +1,6 @@
 # pyganttplot
 Low frills gantt bar-chart plotting fully neglected in Python code. So you need to know Python to use it.
+![example](pyganttplot.png)
 
 # TLTR;
 If you are looking for something feature complete, team sharing functionality, easy configuration, then you should move on.
